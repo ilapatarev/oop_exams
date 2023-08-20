@@ -1,2 +1,2 @@
-# oop_exams
-oop_exam_preparation_and_real_exam
+# oop_exams - SoftUNI trainings
+oop exam preparation and real exam - 3 problems
